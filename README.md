@@ -1,3 +1,3 @@
 # flappy
-## i hate rizz
+## test
 PSC penang science cluster project
