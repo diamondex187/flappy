@@ -1,4 +1,5 @@
 # import necessary libraries
+#impeccable rizz
 import pygame
 import random
 
